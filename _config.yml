@@ -4,4 +4,5 @@ description: <h1>Bithin Alangot</h1><br /> Visiting Fellow at Singapore Universi
 #show_downloads: true
 google_analytics:
 #theme: jekyll-theme-minimal
-theme: minima
+#theme: minima
+remote_theme: luizdepra/hugo-coder
