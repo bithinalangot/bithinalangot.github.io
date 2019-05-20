@@ -1,6 +1,7 @@
-title: Bithin Alangot
+title:
 logo: /assets/img/profile_pic.jpg
-description: Visiting Fellow at Singapore University of Technology and Design
+description: <h1>Bithin Alangot</h1><br /> Visiting Fellow at Singapore University of Technology and Design, PhD Student at Amrita Vishwa Vidyapeetham
 #show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
