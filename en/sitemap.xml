@@ -3,7 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bithinalangot.github.io/posts/hello/</loc>
+    <loc>https://bithinalangot.github.io/series/bithin/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bithinalangot.github.io/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://bithinalangot.github.io/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bithinalangot.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bithinalangot.github.io/posts/first-blog/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bithinalangot.github.io/posts/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bithinalangot.github.io/series/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://bithinalangot.github.io/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bithinalangot.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bithinalangot.github.io/series/start/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -18,21 +68,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bithinalangot.github.io/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bithinalangot.github.io/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://bithinalangot.github.io/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bithinalangot.github.io/"
                 />
   </url>
   
@@ -66,11 +101,6 @@
   </url>
   
   <url>
-    <loc>https://bithinalangot.github.io/posts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bithinalangot.github.io/projects/</loc>
     <xhtml:link
                 rel="alternate"
@@ -81,21 +111,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bithinalangot.github.io/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bithinalangot.github.io/series/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://bithinalangot.github.io/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bithinalangot.github.io/series/"
                 />
   </url>
   

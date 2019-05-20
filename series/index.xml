@@ -6,9 +6,28 @@
     <description>Recent content in Series on Bithin Alangot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bithinalangot.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bithin</title>
+      <link>https://bithinalangot.github.io/series/bithin/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bithinalangot.github.io/series/bithin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start</title>
+      <link>https://bithinalangot.github.io/series/start/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bithinalangot.github.io/series/start/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
