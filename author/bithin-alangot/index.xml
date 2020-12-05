@@ -5,12 +5,44 @@
     <link>bithinalangot.github.io/author/bithin-alangot/</link>
       <atom:link href="bithinalangot.github.io/author/bithin-alangot/index.xml" rel="self" type="application/rss+xml" />
     <description>Bithin Alangot</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 14:52:07 +0800</lastBuildDate>
     <image>
       <url>/bithinalangot.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bithin Alangot</title>
       <link>bithinalangot.github.io/author/bithin-alangot/</link>
     </image>
+    
+    <item>
+      <title>Decentralized lightweight detection of eclipse attacks on bitcoin clients</title>
+      <link>bithinalangot.github.io/publication/eclipse/</link>
+      <pubDate>Sat, 05 Dec 2020 14:52:07 +0800</pubDate>
+      <guid>bithinalangot.github.io/publication/eclipse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartWitness: A Proactive Software Transparency System using Smart Contracts</title>
+      <link>bithinalangot.github.io/publication/smartwitness/</link>
+      <pubDate>Tue, 06 Oct 2020 14:43:58 +0800</pubDate>
+      <guid>bithinalangot.github.io/publication/smartwitness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable collective cosigning to scale blockchain with strong consistency</title>
+      <link>bithinalangot.github.io/publication/byzcoin/</link>
+      <pubDate>Wed, 05 Dec 2018 14:39:40 +0800</pubDate>
+      <guid>bithinalangot.github.io/publication/byzcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable and Lightweight CTF Infrastructures Using Application Containers</title>
+      <link>bithinalangot.github.io/publication/docker/</link>
+      <pubDate>Mon, 05 Dec 2016 14:29:38 +0800</pubDate>
+      <guid>bithinalangot.github.io/publication/docker/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
