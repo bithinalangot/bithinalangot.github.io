@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Bithin</title>
-    <link>http://localhost:1313/authors/</link>
-      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Academic</title>
+    <link>bithinalangot.github.io/authors/</link>
+      <atom:link href="bithinalangot.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>/bithinalangot.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>http://localhost:1313/authors/</link>
+      <link>bithinalangot.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Bithin Alangot&lt;/strong&gt; is working at &lt;a href=&#34;https://cyberlab.sutd.edu.sg/&#34; target=&#34;_blank&#34;&gt;ST Engineering Electronics-SUTD Cybersecurity Laboratory&lt;/a&gt;, Singapore with &lt;a href=&#34;https://pszal.github.io/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Prof. Pawel Szalachowski&lt;/strong&gt;&lt;/a&gt;. His research mainly focuses on network level attacks on Blockchain infrastructure. He is also interested  in using Blockchain technology to enhance security of software distribution systems and authentication frameworks.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: bithinalangot.github.io/sitemap.xml
